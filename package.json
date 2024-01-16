@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VietSon2002/Node_JS.git"
+  },
+  "author": "Viet Son",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VietSon2002/Node_JS/issues"
+  },
+  "homepage": "https://github.com/VietSon2002/Node_JS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
